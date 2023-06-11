@@ -1,0 +1,4 @@
+outs:
+- md5: 0f723a223683379b8377c347bce708d7
+  size: 10223744
+  path: X_test.npy

@@ -1,0 +1,4 @@
+outs:
+- md5: eda939d323863ff87c21e58cfefb1527
+  size: 5120
+  path: y_test.npy
