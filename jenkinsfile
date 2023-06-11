@@ -4,7 +4,7 @@ pipeline {
         stage("Stage 1: Installing Dependencies") {
             steps {
                 echo "Installing dependencies..."
-                sh "pip3 install black"  
+                sh "pip3 install black" 
                 sh "pip3 install autopep8"
             }
         }
